@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D11454F8-B68D-435B-A499-A2990F36DCCD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Pitch²</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8BB11C8B-751B-444D-B614-EB42B0D8C596</key>
+		<string>git://github.com/libpd/libpd.git</string>
+		<key>CFA52F91-8E1D-44AE-B6B5-33415CE3EA71</key>
+		<string>https://github.com/CosmosCluster5/2014_05.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Pitch²/Pitch².xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8BB11C8B-751B-444D-B614-EB42B0D8C596</key>
+		<string>../../../../../Documents/pd-for-ios/libpd</string>
+		<key>CFA52F91-8E1D-44AE-B6B5-33415CE3EA71</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/CosmosCluster5/2014_05.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CFA52F91-8E1D-44AE-B6B5-33415CE3EA71</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CFA52F91-8E1D-44AE-B6B5-33415CE3EA71</string>
+			<key>IDESourceControlWCCName</key>
+			<string>2014_05</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8BB11C8B-751B-444D-B614-EB42B0D8C596</string>
+			<key>IDESourceControlWCCName</key>
+			<string>libpd</string>
+		</dict>
+	</array>
+</dict>
+</plist>
